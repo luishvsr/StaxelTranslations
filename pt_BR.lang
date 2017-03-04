@@ -55,27 +55,27 @@ characterDesigner.shoes=Sapatos:
 //[Reference] 'Skin'
 characterDesigner.skinColour=Cor da Pele:
 //TODO Translate [Reference] 'Species'
-characterDesigner.species=
+characterDesigner.species=Espécies:
 //TODO Translate [Reference] 'Start'
-characterDesigner.start=
+characterDesigner.start=Começar
 //TODO Translate [Reference] 'Dress'
-characterDesigner.subcategory.dress=
+characterDesigner.subcategory.dress=Vestido
 //TODO Translate [Reference] 'Glasses'
-characterDesigner.subcategory.glasses=
+characterDesigner.subcategory.glasses=Óculos
 //TODO Translate [Reference] 'Hat'
-characterDesigner.subcategory.hat=
+characterDesigner.subcategory.hat=Chapéu
 //TODO Translate [Reference] 'Hi-Tops'
-characterDesigner.subcategory.hitops=
+characterDesigner.subcategory.hitops=Tênis
 //TODO Translate [Reference] 'Hoodie'
-characterDesigner.subcategory.hoodie=
+characterDesigner.subcategory.hoodie=Moletom
 //TODO Translate [Reference] 'Jeans'
-characterDesigner.subcategory.jeans=
+characterDesigner.subcategory.jeans=Jeans
 //TODO Translate [Reference] 'Long'
-characterDesigner.subcategory.long=
+characterDesigner.subcategory.long=Longo
 //TODO Translate [Reference] 'Longsleeve'
-characterDesigner.subcategory.longsleeve=
+characterDesigner.subcategory.longsleeve=Manga comprida
 //TODO Translate [Reference] 'Medium'
-characterDesigner.subcategory.medium=
+characterDesigner.subcategory.medium=Médio
 //TODO Translate [Reference] 'Sandals'
 characterDesigner.subcategory.sandals=
 //TODO Translate [Reference] 'Short'
@@ -103,19 +103,19 @@ commands.advanceTime.mustBeNumber=falha: arg(1) precisa ser um número. Pontos f
 //[Reference] 'Advancing time by {0-time}...'
 commands.advanceTime.success=Avançando tempo em {0-time}...
 //TODO Translate [Reference] 'ban playerName (optional)reason'
-commands.ban.description=
+commands.ban.description=banir playerName (opcional)razão
 //TODO Translate [Reference] 'Unable to ban {0-player}: player is an admin or already banned.'
-commands.ban.failure=
+commands.ban.failure=Incapaz de banir {0-player}: o jogador é admin ou já foi banido
 //TODO Translate [Reference] '{0-player} has been banned from the server.'
-commands.ban.success=
+commands.ban.success={0-player} foi banido do servidor
 //TODO Translate [Reference] 'bla'
-commands.bla.description=
+commands.bla.description=bla
 //[Reference] 'Moved to a new location in debug region: {0-region}'
 commands.bla.success=Movido para uma nova localização na região de debug: {0-region}
 //TODO Translate [Reference] 'cameraCapture'
-commands.cameraCapture.description=
+commands.cameraCapture.description=cameraCaptura
 //[Reference] 'Captured player camera'
-commands.cameraCapture.success=Capturar a câmera do jogador
+commands.cameraCapture.success=Capturada a câmera do jogador
 //TODO Translate [Reference] 'cameraCapture savedCameraFilePath'
 commands.cameraLoad.description=
 //[Reference] 'Loaded player camera from file: {0-filename}'
@@ -137,20 +137,20 @@ commands.cameraStop.description=
 //[Reference] 'Stopped camera mode'
 commands.cameraStop.success=Modo de câmera parou
 //TODO Translate [Reference] 'creative (optional)playerName (optional)startCreativeMode(true/false)'
-commands.creative.description=
+commands.creative.description=criativo (opcional)playername (opcional)startCreativeMode(verdadeiro/falso)
 //TODO Translate [Reference] 'Temporarily switched creative mode for {0-user} to {1-creative}'
-commands.creative.success=
+commands.creative.success= O modo criativo para o user {0-user} foi trocado temporariamente para {1-creative}
 
 //TODO Translate [Reference] 'currentTime'
-commands.currentTime.description=
+commands.currentTime.description=tempoAtual
 //[Reference] 'The day is {0-day} and phase is {1:G2-phase}.'
 commands.currentTime.success=O dia é {0-day} e a fase é {1:G2-phase}.
 //TODO Translate [Reference] 'demoMode (optional)on(true/false)'
 commands.demoMode.description=
 //TODO Translate [Reference] 'Switched server demo mode to {0-demoMode}'
-commands.demoMode.success=
+commands.demoMode.success=Mudado o modo demo para {0-demoMode}
 //TODO Translate [Reference] 'describeitem (optional)playerName'
-commands.describeItem.description=
+commands.describeItem.description=descriçãoitem (optional)playerName
 //[Reference] 'Item description: {0-itemDesc}'
 commands.describeItem.success=Descrição do ítem: {0-itemDesc}
 //TODO Translate [Reference] 'entityInfo entityID'
@@ -164,36 +164,36 @@ commands.entityInfo.noSuchEntity=
 //TODO Translate [Reference] 'Entity data: {0-data}'
 commands.entityInfo.success=
 //TODO Translate [Reference] 'fly (optional)playerName (optional)startFlying(true/false)'
-commands.flyMode.description=
+commands.flyMode.description=voar (optional)playerName (optional)startFlying(verdadeiro/falso)
 //[Reference] 'Switched flying mode to: {0-flymode}'
 commands.flyMode.success=Modo de voo alterado para: {0-flymode}
 //TODO Translate [Reference] 'Give all recipes (optional)playerName'
-commands.giveallrecipes.description=
+commands.giveallrecipes.description=Dar todas as receitas (optional)playerName'
 //TODO Translate [Reference] 'Done!'
-commands.giveallrecipes.success=
+commands.giveallrecipes.success=Feito!
 //TODO Translate [Reference] 'givepetals playerName amount'
-commands.givePetals.description=
+commands.givePetals.description=darpétalas playerName quantidade
 //TODO Translate [Reference] 'Petal amount needs to be a positive number'
-commands.givePetals.invalidNumber=
+commands.givePetals.invalidNumber=O número de pétalas precisa de ser positivo!
 //TODO Translate [Reference] 'Gave {0-player} {1-amount} petals'
-commands.givePetals.success=
+commands.givePetals.success=Deu a {0-player} {1-amount} pétalas
 //TODO Translate [Reference] '? (optional)commandName'
-commands.help.altDescription=
+commands.help.altDescription=? (opcional)nomeComando
 //[Reference] 'Command not found: '{0-command}''
 commands.help.commandNotFound=Comando não encontrado: '{0-command}'
 //TODO Translate [Reference] 'help (optional)commandName'
-commands.help.description=
+commands.help.description=ajuda (opcional)nomeComando
 //[Reference] 'Command list (() brackets denote possible values):'
 commands.help.success=Lista de comandos (() parênteses denotam possíveis valores):
 commands.inspect.success=
 //[Reference] 'invalid args'
 commands.invalidArgs=argumentos inválidos
 //TODO Translate [Reference] 'kick playerName'
-commands.kick.description=
+commands.kick.description=expulsar playerName
 //TODO Translate [Reference] 'Unable to kick {0-player}: player is an admin or not online.'
-commands.kick.failure=
+commands.kick.failure=Incapaz de expulsar {0-player}: o jogador é admin ou já foi banido
 //TODO Translate [Reference] '{0-player} has been ejected from the server.'
-commands.kick.success=
+commands.kick.success={0-player} foi expulso do servidor.
 //TODO Translate [Reference] 'model (optional)playerName (optional)modelFileName'
 commands.model.description=
 //[Reference] 'Could not switch to character model '{0-model}' not found in assets.'
@@ -223,7 +223,7 @@ commands.plantGrowth.description=
 //TODO Translate [Reference] 'Not a plant.'
 commands.plantGrowth.noPlant=
 //TODO Translate [Reference] 'Plant {0-plant} at stage {1-stage}'
-commands.plantGrowth.success=
+commands.plantGrowth.success=Planta {0-plant} no {1-stage}º estágio.
 //[Reference] 'Player Entity not found'
 commands.playerEntityNotFound=Entidade de jogador não encontrada
 //[Reference] 'players'
@@ -416,9 +416,9 @@ escapeMenu.returnHome=
 //[Reference] 'It got away!'
 fishing.gotAway=Ele foi embora!
 //TODO Translate [Reference] 'Something is on the hook!'
-fishing.hooked=
+fishing.hooked=Algo está no anzol!
 //TODO Translate [Reference] 'GOT IT!'
-fishing.success1=
+fishing.success1=CONSEGUI!
 //TODO Translate [Reference] 'SUCCESS!'
 fishing.success2=
 //TODO Translate [Reference] 'YES!'
@@ -461,11 +461,11 @@ hintText.notEnoughSpaceToPlant=
 //[Reference] 'Need at least 1 slot in inventory'
 hintText.oneSlotNeeded=Precisa de pelo menos um espaço para o item
 //TODO Translate [Reference] 'You already know this recipe'
-hintText.recipeKnown=
+hintText.recipeKnown=Você já sabe esta receita 
 //TODO Translate [Reference] 'You successfully learnt the recipe for {0-recipe}!'
-hintText.recipeLearnt=
+hintText.recipeLearnt=Aprendeu com sucesso a receita para {0-recipe}
 //TODO Translate [Reference] 'Downloading bundle assets'
-loading.bundles=
+loading.bundles=Baixando recursos do bundle
 
 //[Reference] 'Skip'
 loading.skip=Pular
@@ -481,9 +481,9 @@ multiplayerMenu.serverList=Lista de Servidores
 //[Reference] 'Options'
 options=Opções
 //TODO Translate [Reference] 'Admin'
-options.admin=
+options.admin=Admin
 //TODO Translate [Reference] 'Debug'
-options.admin.debug=
+options.admin.debug=Debug
 
 //[Reference] 'Camera Mode (ESC to exit)'
 options.admin.debug.cameraMode=Modo de Câmera ((ESC) para sair)
@@ -526,7 +526,7 @@ options.gameplay.controller.rightThumbVelocity=Velocidade da Alavanca Direita:
 //[Reference] 'Set gameplay options here'
 options.gameplay.description=Configure as opções de jogo aqui
 //TODO Translate [Reference] 'Input'
-options.gameplay.input=
+options.gameplay.input=Input
 //TODO Translate [Reference] 'Enable Repeating'
 options.gameplay.input.enableRepeat=
 //[Reference] 'Keyboard'
@@ -2214,7 +2214,7 @@ staxel.crafting.recipes.PieCherry.description=
 staxel.crafting.recipes.PieCherry.name=
 staxel.crafting.recipes.PieCrust.name=
 //TODO Translate [Reference] 'Read this to learn the recipe.'
-staxel.crafting.recipes.PieDragonFruit.description=
+staxel.crafting.recipes.PieDragonFruit.description=Leia isto para aprender a receita
 //TODO Translate [Reference] 'Dragon Fruit Pie Recipe'
 staxel.crafting.recipes.PieDragonFruit.name=
 //TODO Translate [Reference] 'Read this to learn the recipe.'
@@ -5614,7 +5614,7 @@ staxel.tileObject.serverVillage.TableSaw.name=
 //TODO Translate [Reference] 'Bread goes in, toast comes out! But where does the bread go?'
 staxel.tileObject.serverVillage.Toaster.description=
 //TODO Translate [Reference] 'Toaster'
-staxel.tileObject.serverVillage.Toaster.name=
+staxel.tileObject.serverVillage.Toaster.name=Tostadeira
 //TODO Translate [Reference] 'Grows plump, delicious tomatoes.'
 staxel.tileObject.serverVillage.TomatoPlant.description=
 //TODO Translate [Reference] 'Tomato Plant'
@@ -5622,27 +5622,27 @@ staxel.tileObject.serverVillage.TomatoPlant.name=
 //TODO Translate [Reference] 'The most popular crop for farming.'
 staxel.tileObject.serverVillage.Turnip.description=
 //TODO Translate [Reference] 'Turnip'
-staxel.tileObject.serverVillage.Turnip.name=
+staxel.tileObject.serverVillage.Turnip.name=Nabo
 //TODO Translate [Reference] 'The current channel is showing some programmer as he develops something.'
-staxel.tileObject.serverVillage.Tv.description=
+staxel.tileObject.serverVillage.Tv.description=O canal mostra um programador enquanto ele desenvolve alguma coisa
 //TODO Translate [Reference] 'Television'
-staxel.tileObject.serverVillage.Tv.name=
+staxel.tileObject.serverVillage.Tv.name=Televisão
 //TODO Translate [Reference] 'What's a T.V. without a T.V. stand?'
-staxel.tileObject.serverVillage.TvStand.description=
+staxel.tileObject.serverVillage.TvStand.description=O que é uma tevê sem um suporte?
 //TODO Translate [Reference] 'Television Stand'
-staxel.tileObject.serverVillage.TvStand.name=
+staxel.tileObject.serverVillage.TvStand.name=Suporte de Televisão
 //TODO Translate [Reference] 'A flat platform that can be used as the floor for multi-storied buildings.'
-staxel.tileObject.serverVillage.UpperWoodenFloor.description=
+staxel.tileObject.serverVillage.UpperWoodenFloor.description= Uma plataforma lisa que pode ser utilizado como chão para edificios de vários andares
 //TODO Translate [Reference] 'Upper Wooden Floor'
 staxel.tileObject.serverVillage.UpperWoodenFloor.name=
 //TODO Translate [Reference] 'A basic wall-mounted shelf. The cornerstone of any rustic kitchen!'
-staxel.tileObject.serverVillage.WallShelf.description=
+staxel.tileObject.serverVillage.WallShelf.description=Uma prateleira montada na parede. A pedra-mãe de qualquer cozinha rústica!
 //TODO Translate [Reference] 'Wooden Shelf'
-staxel.tileObject.serverVillage.WallShelf.name=
+staxel.tileObject.serverVillage.WallShelf.name=Prateleira de Madeira
 //TODO Translate [Reference] 'What a large wardrobe, I can fit all sorts in here!'
-staxel.tileObject.serverVillage.Wardrobe.double.description=
+staxel.tileObject.serverVillage.Wardrobe.double.description=Que guarda-roupa tão grande, consigo meter tudo aqui!
 //TODO Translate [Reference] 'Simply Wooden Double Wardrobe'
-staxel.tileObject.serverVillage.Wardrobe.double.name=
+staxel.tileObject.serverVillage.Wardrobe.double.name=Guarda-roupa duplo de madeira
 //TODO Translate [Reference] 'A small wardrobe, but has a surprising amount of storage space.'
 staxel.tileObject.serverVillage.Wardrobe.single.description=
 //TODO Translate [Reference] 'Simply Wooden Single Wardrobe'
@@ -6084,16 +6084,16 @@ staxel.tileObject.themedfurniture.ranch.RanchTable.name=
 staxel.tileObject.themedfurniture.ranch.RanchWardrobe.description=
 //TODO Translate [Reference] 'Ranch Wardrobe'
 staxel.tileObject.themedfurniture.ranch.RanchWardrobe.name=
-staxel.tileObject.themedfurniture.victorian.VictorianArmChair.name=
-staxel.tileObject.themedfurniture.victorian.VictorianChair.name=
-staxel.tileObject.themedfurniture.victorian.VictorianCoffeeTable.name=
-staxel.tileObject.themedfurniture.victorian.VictorianCredenza.name=
-staxel.tileObject.themedfurniture.victorian.VictorianDesk.name=
-staxel.tileObject.themedfurniture.victorian.VictorianDoubleBed.name=
+staxel.tileObject.themedfurniture.victorian.VictorianArmChair.name=Cadeirão Vitoriano
+staxel.tileObject.themedfurniture.victorian.VictorianChair.name=Cadeira Vitoriana
+staxel.tileObject.themedfurniture.victorian.VictorianCoffeeTable.name=Mesa de café Vitoriana
+staxel.tileObject.themedfurniture.victorian.VictorianCredenza.name=Armário Vitoriano
+staxel.tileObject.themedfurniture.victorian.VictorianDesk.name= Secretária Vitoriana
+staxel.tileObject.themedfurniture.victorian.VictorianDoubleBed.name= Cama dupla Vitoriana
 staxel.tileObject.themedfurniture.victorian.VictorianDresser.description=
 staxel.tileObject.themedfurniture.victorian.VictorianDresser.name=
-staxel.tileObject.themedfurniture.victorian.VictorianLamp.name=
-staxel.tileObject.themedfurniture.victorian.VictorianLoveseat.name=
+staxel.tileObject.themedfurniture.victorian.VictorianLamp.name=Lâmpada Vitoriana
+staxel.tileObject.themedfurniture.victorian.VictorianLoveseat.name=Sofá de namorados Vitoriano
 staxel.tileObject.themedfurniture.victorian.VictorianSideTable.description=
 staxel.tileObject.themedfurniture.victorian.VictorianSideTable.name=
 staxel.tileObject.themedfurniture.victorian.VictorianSingleBed.name=
@@ -6120,91 +6120,91 @@ staxel.tileObject.wicker.WickerStool.description=
 //TODO Translate [Reference] 'Wicker Stool'
 staxel.tileObject.wicker.WickerStool.name=
 //TODO Translate [Reference] 'From the 'Wicker Furniture Set' - A large wicker table.'
-staxel.tileObject.wicker.WickerTable.description=
+staxel.tileObject.wicker.WickerTable.description
 //TODO Translate [Reference] 'Wicker Table'
-staxel.tileObject.wicker.WickerTable.name=
+staxel.tileObject.wicker.WickerTable.name=Mesa de vime
 //TODO Translate [Reference] 'From the 'Wicker Furniture Set' - A small wardrobe, made from wicker.'
 staxel.tileObject.wicker.WickerWardrobe.description=
 //TODO Translate [Reference] 'Wicker Wardrobe'
-staxel.tileObject.wicker.WickerWardrobe.name=
+staxel.tileObject.wicker.WickerWardrobe.name=Guarda-roupa de vime
 //TODO Translate [Reference] 'This tree grows juicy, crunchy apples.'
-staxel.tree.AppleTree.description=
+staxel.tree.AppleTree.description=Nesta árvore crescem maças estaladiças e suculentas
 //TODO Translate [Reference] 'Apple TreeSeed'
-staxel.tree.AppleTree.name=
+staxel.tree.AppleTree.name=Semente de macieira
 //TODO Translate [Reference] 'This tree grows yummy bananas.'
-staxel.tree.BananaTree.description=
+staxel.tree.BananaTree.description=Nesta árvore crescem bananas deliciosas
 //TODO Translate [Reference] 'Banana Tree Seed'
-staxel.tree.BananaTree.name=
+staxel.tree.BananaTree.name=Semente de Bananeira
 //TODO Translate [Reference] 'This tree grows sweet sweet cherries'
-staxel.tree.CherryTree.description=
+staxel.tree.CherryTree.description=Nesta árvore crescem doces doces cerejas
 //TODO Translate [Reference] 'Cherry Tree Seed'
-staxel.tree.CherryTree.name=
+staxel.tree.CherryTree.name=Semente de cerejeira
 //TODO Translate [Reference] 'Chocolate does grow on trees'
-staxel.tree.CocoaTree.description=
+staxel.tree.CocoaTree.description=Chocolate cresce nas árvores
 //TODO Translate [Reference] 'Cocoa Tree Seed'
-staxel.tree.CocoaTree.name=
+staxel.tree.CocoaTree.name=Semente de árvore de cacau
 //TODO Translate [Reference] 'This palm tree grows coconuts, mind your head!'
-staxel.tree.CoconutTree.description=
+staxel.tree.CoconutTree.description=Nesta palmeira crescem cocos, atenção à sua cabeça
 //TODO Translate [Reference] 'Coconut Tree Seed'
-staxel.tree.CoconutTree.name=
+staxel.tree.CoconutTree.name=Árvore de Coco
 //TODO Translate [Reference] 'This tree grows the strange, alien looking dragonfruit.'
-staxel.tree.DragonFruitTree.description=
+staxel.tree.DragonFruitTree.description=Nesta árvore crescem pitaias estranhas, com ar alienigena
 //TODO Translate [Reference] 'Dragon Fruit Tree Seed'
-staxel.tree.DragonFruitTree.name=
+staxel.tree.DragonFruitTree.name=Semente de pitaia
 //TODO Translate [Reference] 'This tree grows sublime kiwis.'
-staxel.tree.KiwiTree.description=
+staxel.tree.KiwiTree.description=Nesta árvore crescem kiwis sublimes
 //TODO Translate [Reference] 'Kiwi Tree Seed'
-staxel.tree.KiwiTree.name=
+staxel.tree.KiwiTree.name=Semente de Kiwi
 //TODO Translate [Reference] 'A tree that grows sour and juicy lemons.'
-staxel.tree.LemonTree.description=
+staxel.tree.LemonTree.description=Uma árvore em que crescem limões azedos e sucolentos
 //TODO Translate [Reference] 'Lemon Tree Seed'
-staxel.tree.LemonTree.name=
+staxel.tree.LemonTree.name=Semente de limoeiro
 //TODO Translate [Reference] 'A tree that produces bright green and zingy limes.'
-staxel.tree.LimeTree.description=
+staxel.tree.LimeTree.description=Uma árvore que produz limas verdes luminosas e cheias de vida
 //TODO Translate [Reference] 'Lime Tree Seed'
-staxel.tree.LimeTree.name=
+staxel.tree.LimeTree.name=Semente de lima
 //TODO Translate [Reference] 'A tree that grows a delicious soft fruit.'
-staxel.tree.MangoTree.description=
+staxel.tree.MangoTree.description=Uma árvore em que crescem fruta deliciosa e leve
 //TODO Translate [Reference] 'Mango Tree Seed'
-staxel.tree.MangoTree.name=
+staxel.tree.MangoTree.name=Semente de manga
 //TODO Translate [Reference] 'With this tree you'll never run out of orange juice.'
 staxel.tree.OrangeTree.description=
 //TODO Translate [Reference] 'Orange Tree Seed'
-staxel.tree.OrangeTree.name=
+staxel.tree.OrangeTree.name=Semente de laranjeira
 //TODO Translate [Reference] 'This tree grows succulent peaches.'
-staxel.tree.PeachTree.description=
+staxel.tree.PeachTree.description=Esta árvore dá pêssegos suculentos
 //TODO Translate [Reference] 'Peach Tree Seed'
-staxel.tree.PeachTree.name=
+staxel.tree.PeachTree.name=Semente de pessegueiro
 //TODO Translate [Reference] 'Pears are like longer apples.'
-staxel.tree.PearTree.description=
+staxel.tree.PearTree.description=as pêras são como maças mais longas
 //TODO Translate [Reference] 'Pear Tree Seed'
-staxel.tree.PearTree.name=
+staxel.tree.PearTree.name=Semente de pereira
 //TODO Translate [Reference] 'This tree grows tangerines, not oranges.'
-staxel.tree.TangerineTree.description=
+staxel.tree.TangerineTree.description=Está arvore dá tangerinas, não laranjas
 //TODO Translate [Reference] 'Tangerine Tree'
-staxel.tree.TangerineTree.name=
+staxel.tree.TangerineTree.name=Árvore de tangerina
 //TODO Translate [Reference] 'Cecile'
-staxel.villager.Cecile.name=
+staxel.villager.Cecile.name=Cecile
 //TODO Translate [Reference] 'Emilia'
-staxel.villager.Emilia.name=
+staxel.villager.Emilia.name=Emilia
 //TODO Translate [Reference] 'Eris'
-staxel.villager.Eris.name=
+staxel.villager.Eris.name=Eris
 //TODO Translate [Reference] 'Farm Fan'
-staxel.villager.FarmFan.name=
+staxel.villager.FarmFan.name=Apoiante da quinta
 //TODO Translate [Reference] 'Jamie'
-staxel.villager.Jamie.name=
+staxel.villager.Jamie.name=Jamie
 //TODO Translate [Reference] 'Leif'
-staxel.villager.Leif.name=
+staxel.villager.Leif.name=Leif
 //TODO Translate [Reference] 'Maximilian'
-staxel.villager.Maximilian.name=
+staxel.villager.Maximilian.name=Maximilian
 //TODO Translate [Reference] 'Oscar'
-staxel.villager.Oscar.name=
+staxel.villager.Oscar.name=Óscar
 //TODO Translate [Reference] 'Rosemary'
-staxel.villager.Rosemary.name=
+staxel.villager.Rosemary.name=Rosemary
 //TODO Translate [Reference] 'Rowan'
-staxel.villager.Rowan.name=
+staxel.villager.Rowan.name=Rowan
 
 //[Reference] 'Staxel Development Build'
 version.developmentBuild=Staxel - Versão de Desenvolvimento
 //TODO Translate [Reference] 'Can't equip this here!'
-wardrobe.CantEquip=
+wardrobe.CantEquip=Não pode equipar isto aqui
